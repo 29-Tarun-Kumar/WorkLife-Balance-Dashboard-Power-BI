@@ -80,7 +80,7 @@ Below is a brief explanation of key columns used in the dataset:
 ---
 
 ## 🏷️ Tags
-`#PowerBI` `#Dashboard` `#DataAnalytics` `#MentalHealth` `#SocialMedia` `#Excel` `#CSV` `#DataVisualization`
+`#PowerBI` `#Dashboard` `#DataAnalytics` `#MentalHealth` `#SocialMedia` `#Excel` `#CSV` `#DataVisualization` `#power-bi` `#Data-Visualization` `#Social-Media` 
 
 ---
 
