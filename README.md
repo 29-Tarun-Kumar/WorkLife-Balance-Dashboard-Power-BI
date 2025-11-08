@@ -1,7 +1,7 @@
 # 🧠 Mental Health and Social Media Balance Dashboard
 
 An interactive **Power BI dashboard** built using the **Mental Health and Social Media Balance Dataset**.  
-This project explores how social media usage impacts individuals’ **mental health, productivity, and lifestyle balance**.
+This project explores how social media usage impacts individuals’ **mental health, Social Life, and lifestyle balance**.
 
 ---
 
